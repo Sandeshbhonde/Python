@@ -1,4 +1,4 @@
-# Write a program to print "Yeah" if string contains vowels otherwise print "Nooo".
+# Write a program to print "Yess" if string contains vowels otherwise print "Nooo".
 # Take string1 = "Hello Apple" string2 = "Cry Fry Dry"
 
 string = input ("Enter a string : ")
